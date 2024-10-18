@@ -1,0 +1,11 @@
+/.vscode
+./**appmap.log
+/.env
+/.obsidian/**
+/DEV_NOTES
+appmap.log
+/caret/chats
+/.smart-env
+/.custom_theme
+/smart-templates
+/_Excalidraw
