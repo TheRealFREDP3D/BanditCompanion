@@ -9,3 +9,6 @@ appmap.log
 /.custom_theme
 /smart-templates
 /_Excalidraw
+bandit_companion/__pycache__/app.cpython-311.pyc
+bandit_companion/__pycache__/__init__.cpython-311.pyc
+bandit_companion/__pycache__/__main__.cpython-311.pyc
